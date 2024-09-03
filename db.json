@@ -1,4 +1,351 @@
 {
+  "clients": 
+  [
+    {
+      "id": 50,
+      "login": "john.doe",
+      "name": "John Doe",
+      "company": "Doe Enterprises",
+      "city": "Doeville",
+      "progress": 42,
+      "created": "Feb 10, 2024",
+      "created_mm_dd_yyyy": "02-10-2024"
+    },
+    {
+      "id": 51,
+      "login": "jane.smith",
+      "name": "Jane Smith",
+      "company": "Smith Consulting",
+      "city": "Smithtown",
+      "progress": 65,
+      "created": "Jan 15, 2024",
+      "created_mm_dd_yyyy": "01-15-2024"
+    },
+    {
+      "id": 52,
+      "login": "lucas.wang",
+      "name": "Lucas Wang",
+      "company": "Wang Holdings",
+      "city": "Wangville",
+      "progress": 73,
+      "created": "Jul 5, 2024",
+      "created_mm_dd_yyyy": "07-05-2024"
+    },
+    {
+      "id": 53,
+      "login": "emily.johnson",
+      "name": "Emily Johnson",
+      "company": "Johnson & Co",
+      "city": "Johnsonville",
+      "progress": 56,
+      "created": "Mar 12, 2024",
+      "created_mm_dd_yyyy": "03-12-2024"
+    },
+    {
+      "id": 54,
+      "login": "robert.brown",
+      "name": "Robert Brown",
+      "company": "Brown Ltd",
+      "city": "Brownstown",
+      "progress": 68,
+      "created": "Sep 10, 2024",
+      "created_mm_dd_yyyy": "09-10-2024"
+    },
+    {
+      "id": 55,
+      "login": "michael.jones",
+      "name": "Michael Jones",
+      "company": "Jones Solutions",
+      "city": "Jonestown",
+      "progress": 77,
+      "created": "Apr 1, 2024",
+      "created_mm_dd_yyyy": "04-01-2024"
+    },
+    {
+      "id": 56,
+      "login": "isabella.garcia",
+      "name": "Isabella Garcia",
+      "company": "Garcia Tech",
+      "city": "Garciaville",
+      "progress": 64,
+      "created": "Jun 2, 2024",
+      "created_mm_dd_yyyy": "06-02-2024"
+    },
+    {
+      "id": 57,
+      "login": "ethan.martin",
+      "name": "Ethan Martin",
+      "company": "Martin Enterprises",
+      "city": "Martin City",
+      "progress": 39,
+      "created": "May 10, 2024",
+      "created_mm_dd_yyyy": "05-10-2024"
+    },
+    {
+      "id": 58,
+      "login": "sophia.rodriguez",
+      "name": "Sophia Rodriguez",
+      "company": "Rodriguez Solutions",
+      "city": "Rodriguezburg",
+      "progress": 52,
+      "created": "Jul 20, 2024",
+      "created_mm_dd_yyyy": "07-20-2024"
+    },
+    {
+      "id": 59,
+      "login": "james.lee",
+      "name": "James Lee",
+      "company": "Lee Inc.",
+      "city": "Leesville",
+      "progress": 61,
+      "created": "Aug 15, 2024",
+      "created_mm_dd_yyyy": "08-15-2024"
+    },
+    {
+      "id": 60,
+      "login": "ava.hernandez",
+      "name": "Ava Hernandez",
+      "company": "Hernandez Corp",
+      "city": "Hernandez Town",
+      "progress": 79,
+      "created": "Oct 11, 2024",
+      "created_mm_dd_yyyy": "10-11-2024"
+    },
+    {
+      "id": 61,
+      "login": "oliver.miller",
+      "name": "Oliver Miller",
+      "company": "Miller Technologies",
+      "city": "Millertown",
+      "progress": 44,
+      "created": "Jun 28, 2024",
+      "created_mm_dd_yyyy": "06-28-2024"
+    },
+    {
+      "id": 62,
+      "login": "mia.davis",
+      "name": "Mia Davis",
+      "company": "Davis Group",
+      "city": "Davistown",
+      "progress": 53,
+      "created": "Jul 8, 2024",
+      "created_mm_dd_yyyy": "07-08-2024"
+    },
+    {
+      "id": 63,
+      "login": "benjamin.martinez",
+      "name": "Benjamin Martinez",
+      "company": "Martinez Holdings",
+      "city": "Martinez City",
+      "progress": 48,
+      "created": "Aug 22, 2024",
+      "created_mm_dd_yyyy": "08-22-2024"
+    },
+    {
+      "id": 64,
+      "login": "charlotte.gonzalez",
+      "name": "Charlotte Gonzalez",
+      "company": "Gonzalez Solutions",
+      "city": "Gonzalezville",
+      "progress": 50,
+      "created": "Sep 5, 2024",
+      "created_mm_dd_yyyy": "09-05-2024"
+    },
+    {
+      "id": 65,
+      "login": "jackson.moore",
+      "name": "Jackson Moore",
+      "company": "Moore Ltd.",
+      "city": "Mooretown",
+      "progress": 67,
+      "created": "Mar 29, 2024",
+      "created_mm_dd_yyyy": "03-29-2024"
+    },
+    {
+      "id": 66,
+      "login": "amelia.taylor",
+      "name": "Amelia Taylor",
+      "company": "Taylor & Co.",
+      "city": "Taylorville",
+      "progress": 54,
+      "created": "Jun 17, 2024",
+      "created_mm_dd_yyyy": "06-17-2024"
+    },
+    {
+      "id": 67,
+      "login": "jacob.anderson",
+      "name": "Jacob Anderson",
+      "company": "Anderson Group",
+      "city": "Andersontown",
+      "progress": 45,
+      "created": "Jul 27, 2024",
+      "created_mm_dd_yyyy": "07-27-2024"
+    },
+    {
+      "id": 68,
+      "login": "elizabeth.thomas",
+      "name": "Elizabeth Thomas",
+      "company": "Thomas Holdings",
+      "city": "Thomasville",
+      "progress": 47,
+      "created": "May 30, 2024",
+      "created_mm_dd_yyyy": "05-30-2024"
+    },
+    {
+      "id": 69,
+      "login": "william.jones",
+      "name": "William Jones",
+      "company": "Jones Investments",
+      "city": "Jonestown",
+      "progress": 60,
+      "created": "Jun 21, 2024",
+      "created_mm_dd_yyyy": "06-21-2024"
+    },
+    {
+      "id": 70,
+      "login": "ella.hall",
+      "name": "Ella Hall",
+      "company": "Hall Enterprises",
+      "city": "Hallville",
+      "progress": 36,
+      "created": "Apr 4, 2024",
+      "created_mm_dd_yyyy": "04-04-2024"
+    },
+    {
+      "id": 71,
+      "login": "logan.clark",
+      "name": "Logan Clark",
+      "company": "Clark Solutions",
+      "city": "Clark City",
+      "progress": 64,
+      "created": "Jul 11, 2024",
+      "created_mm_dd_yyyy": "07-11-2024"
+    },
+    {
+      "id": 72,
+      "login": "zoe.lopez",
+      "name": "Zoe Lopez",
+      "company": "Lopez Holdings",
+      "city": "Lopezville",
+      "progress": 51,
+      "created": "Aug 13, 2024",
+      "created_mm_dd_yyyy": "08-13-2024"
+    },
+    {
+      "id": 73,
+      "login": "alexis.white",
+      "name": "Alexis White",
+      "company": "White Corp",
+      "city": "Whiteville",
+      "progress": 57,
+      "created": "Sep 21, 2024",
+      "created_mm_dd_yyyy": "09-21-2024"
+    },
+    {
+      "id": 74,
+      "login": "daniel.johnson",
+      "name": "Daniel Johnson",
+      "company": "Johnson Global",
+      "city": "Johnsonville",
+      "progress": 58,
+      "created": "Feb 18, 2024",
+      "created_mm_dd_yyyy": "02-18-2024"
+    },
+    {
+      "id": 75,
+      "login": "grace.williams",
+      "name": "Grace Williams",
+      "company": "Williams Solutions",
+      "city": "Williamstown",
+      "progress": 66,
+      "created": "Mar 3, 2024",
+      "created_mm_dd_yyyy": "03-03-2024"
+    },
+    {
+      "id": 76,
+      "login": "aiden.brown",
+      "name": "Aiden Brown",
+      "company": "Brown Enterprises",
+      "city": "Browntown",
+      "progress": 44,
+      "created": "May 9, 2024",
+      "created_mm_dd_yyyy": "05-09-2024"
+    },
+    {
+      "id": 77,
+      "login": "scarlett.jones",
+      "name": "Scarlett Jones",
+      "company": "Jones Global",
+      "city": "Jonestown",
+      "progress": 55,
+      "created": "Jul 23, 2024",
+      "created_mm_dd_yyyy": "07-23-2024"
+    },
+    {
+      "id": 78,
+      "login": "sebastian.martin",
+      "name": "Sebastian Martin",
+      "company": "Martin Holdings",
+      "city": "Martinsville",
+      "progress": 72,
+      "created": "Sep 8, 2024",
+      "created_mm_dd_yyyy": "09-08-2024"
+    },
+    {
+      "id": 79,
+      "login": "victoria.miller",
+      "name": "Victoria Miller",
+      "company": "Miller Solutions",
+      "city": "Millertown",
+      "progress": 60,
+      "created": "Mar 27, 2024",
+      "created_mm_dd_yyyy": "03-27-2024"
+    },
+    {
+      "id": 80,
+      "login": "jayden.davis",
+      "name": "Jayden Davis",
+      "company": "Davis Consulting",
+      "city": "Davistown",
+      "progress": 53,
+      "created": "Jan 5, 2024",
+      "created_mm_dd_yyyy": "01-05-2024"
+    }
+  ],  
+  "history": [
+    {
+      "amount": 1130.75,
+      "account": "98765432",
+      "name": "Benjamin Martinez Account",
+      "date": "2 weeks ago",
+      "type": "money",
+      "business": "Taylor Global"
+    },
+    {
+      "amount": 432.45,
+      "account": "78912345",
+      "name": "Lucas Wang Account",
+      "date": "6 days ago",
+      "type": "payment",
+      "business": "Johnson Solutions"
+    },
+    {
+      "amount": 1275.50,
+      "account": "15975328",
+      "name": "Mia Davis Account",
+      "date": "4 days ago",
+      "type": "missing",
+      "business": "Anderson Enterprises"
+    },
+    {
+      "amount": 604.32,
+      "account": "74125896",
+      "name": "Alexis White Account",
+      "date": "2 weeks ago",
+      "type": "refund",
+      "business": "Thomas Holdings"
+    }
+  ],
   "posts": [
     { "id": "1", "title": "a title", "views": 100 },
     { "id": "2", "title": "another title", "views": 200 }

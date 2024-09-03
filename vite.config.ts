@@ -7,6 +7,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/Dashboard-E-Commerce-Demo/',
   plugins: [
     vue(),
     vueJsx(),
